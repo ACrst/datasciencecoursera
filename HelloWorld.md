@@ -1,2 +1,2 @@
-print("This is a test file used to understand RStudio push to GitHub!")
+print("This is a file used to test RStudio push to GitHub!")
 ## This is a markdown file 
